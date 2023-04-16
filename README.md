@@ -1,9 +1,27 @@
-![](.github/globe_logo.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/garmir">
+    <img src="https://github.com/garmir/garmir/blob/main/globe.gif" width="370" height="370">
+  </a>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Render an ASCII globe in your terminal. Make it interactive or just let it
-spin in the background.
-
-![](.github/earth_dragging.gif)
 
 ## Changelog
 
