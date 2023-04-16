@@ -1,0 +1,10 @@
+[package]
+name = "globe"
+version = "0.2.0"
+authors = ["garmir <garmir@pm.me>"]
+edition = "2018"
+repository = "https://github.com/garmir/globe"
+description = "Customizable ASCII globe generator."
+keywords = ["interactive", "ASCII", "globe", "terminal"]
+readme = "README.md"
+license = "GPL-3.0"
