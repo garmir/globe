@@ -1,0 +1,19 @@
+[package]
+name = "globe-cli"
+version = "0.2.0"
+authors = ["garmir <garmir@pm.me>"]
+edition = "2018"
+repository = "https://github.com/garmir/globe"
+description = "Display an interactive ASCII globe in your terminal."
+keywords = ["interactive", "ASCII", "globe", "terminal", "cli"]
+readme = "README.md"
+license = "GPL-3.0"
+
+[[bin]]
+name = "globe"
+path = "src/main.rs"
+
+[dependencies]
+globe = { version = "0.2.0", path = "../globe" }
+crossterm = "0.18.2"
+clap = { version = "3.2.21", default-features = false, features = ["std"] }
